@@ -1,0 +1,11 @@
+#ifndef MENUTYPE_HPP_INCLUDED
+#define MENUTYPE_HPP_INCLUDED
+
+enum MenuType {
+    HOME,
+    SETTINGS,
+    GAMEMODE,
+    PLAYER_SELECTION
+};
+
+#endif // MENUTYPE_HPP_INCLUDED
